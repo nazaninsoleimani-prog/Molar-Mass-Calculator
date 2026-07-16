@@ -1,15 +1,28 @@
-# Molar Mass Calculator
+# 🧪 Molar Mass Calculator
 
-A Python program to calculate the molar mass of chemical compounds using Jupyter Notebook.
+A simple and clean Python program to calculate the **molar mass** of chemical compounds.
 
-## Features
-- Calculates molar mass from chemical formulas (e.g. H₂O, NaCl, C₆H₁₂O₆)
-- Simple and easy to use in Jupyter Notebook
+## ✨ Features
+- Calculates molar mass from chemical formulas (e.g. `H2O`, `NaCl`, `C6H12O6`)
+- Supports subscripts and parentheses
+- Runs in Jupyter Notebook (easy to use and visualize)
 
-## How to Run
+## 📂 Project Structure
+- `Molar_Mass_Calculator.ipynb` — Main Jupyter Notebook
+
+## ▶️ How to Use
 1. Open the Jupyter Notebook file
-2. Run all cells
-3. Enter a chemical formula when prompted
+2. Run all the cells
+3. Enter a chemical formula when asked
+4. Get the molar mass result instantly
 
-## Author
-Nazanin Soleimani
+## 🛠️ Requirements
+- Python 3
+- Jupyter Notebook
+
+## 👩‍💻 Author
+**Nazanin Soleimani**
+
+---
+
+Feel free to improve this further anytime!
